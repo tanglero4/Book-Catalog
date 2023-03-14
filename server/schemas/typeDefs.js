@@ -18,8 +18,3 @@ const typeDefs = gql`
   `;
 
 module.exports = typeDefs;
-
-
-
-
-// savedBooks: [savedBooks]!
